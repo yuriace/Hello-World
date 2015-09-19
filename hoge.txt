@@ -5,3 +5,4 @@ add 変更をインデックスに登録する
 hoge
 fa
 foooooooo
+dsfasdfas
