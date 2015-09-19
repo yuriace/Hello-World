@@ -11,3 +11,6 @@ ora\\\\‚¨‚ç‚¨‚ç
 
 dafasfa 
    fasafs
+
+
+foo.add
